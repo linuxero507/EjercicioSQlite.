@@ -71,6 +71,8 @@ public class Principal extends JFrame implements ActionListener{
 
 	public static void main(String[] args) {
 		 new Principal();
+		 System.out.print("Ejercicio de GIT");
+		 System.out.print("Apartado 5");
 		}//fin main
    
 }//fin class 
